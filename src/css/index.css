@@ -1,0 +1,20 @@
+body{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    background-color:gray;
+}
+
+#signinButton{
+    margin-top:10px;
+}
+
+#signupButton{
+    margin-top:10px;
+}
+
+#linkBurzunildo{
+    margin:10px;
+    font-size: 10pt;
+    color:black;
+}
